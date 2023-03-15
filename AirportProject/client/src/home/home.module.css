@@ -1,0 +1,198 @@
+button:active {
+  background-color: blanchedalmond;
+} 
+
+.background {
+  position: absolute;
+  top: 0px;
+  width: 75%;
+}
+
+.showFire {
+  width: 5%;
+  transform: rotate(0deg) !important;
+  position: absolute;
+}
+
+.hiddenFire{
+display: none;
+}
+
+.directorImg{
+  width: 6%;
+  position: absolute;
+  transform: rotate(0deg) !important;
+  left: 25%;
+  top:32%;
+}
+
+.deadlock  {
+  position: absolute;
+  width: 8%;
+  font-size: 80%;
+  background-color:darksalmon;
+  color: black;
+  left: 65.5%;
+  top: 80%;
+  padding: 0.5%;
+  border-radius: 5px;
+  margin: 2%;
+}
+
+.stopSimulator {
+  position: absolute;
+  width: 8%;
+  font-size: 80%;
+  background-color: red;
+  color: white;
+  left: 65.5%;
+  top: 80%;
+  padding: 0.5%;
+  border-radius: 5px;
+  margin: 2%;
+}
+
+.resumeSimulator {
+  position: absolute;
+  width: 8%;
+  font-size: 80%;
+  background-color: green;
+  color: white;
+  left: 65.5%;
+  top: 80%;
+  padding: 0.5%;
+  border-radius: 5px;
+  margin: 2%;
+}
+
+.deadlockHover {
+  display: block;
+  font-size: x-small;
+  color: brown;
+  background-color: yellow;
+  position: absolute;
+  left: 55%;
+  top: 84%;
+  width: 12%;
+}
+
+.rescueTitle{
+  font-size:large;
+  font-style: italic;
+  position:absolute;
+  left: 61%;
+  top: 73.2%;
+  transform: rotate(0deg)
+}
+
+.flickering{
+  font-size:xx-large;
+  font-style: bold;
+  position:absolute;
+  left: 66.8%;
+  top: 64%;
+  transform: rotate(0deg)
+}
+
+.flickering2{
+  font-size:xx-large;
+  font-style: bold;
+  position:absolute;
+  left: 4.4%;
+  top: 19.8%;
+  transform: rotate(0deg)
+}
+
+.flickeringSticks{
+  font-size:xx-large;
+  font-style: bold;
+  position:absolute;
+  left: 29.2%;
+  top: 28.2%;
+  transform: rotate(11deg)
+}
+
+.flickeringSticks2{
+  font-size:xx-large;
+  font-style: bold;
+  position:absolute;
+  left: 26%;
+  top: 32.9%;
+  transform: rotate(344deg)
+}
+
+.flickering3{
+  font-size:xx-large;
+  font-style: bold;
+  position:absolute;
+  left: 60.9%;
+  top: 64%;
+  transform: rotate(344deg)
+}
+
+.plane {
+  position: absolute;
+  width: 5%;
+}
+
+.planeName {
+  position: absolute;
+  font-size: 80%;
+  font-weight: bold;
+  transform: rotate(0deg) !important;
+  margin-bottom: 5.8%;
+  margin-right: 1%;
+  border: 1px solid;
+  border-width: 1.5px;
+  border-radius: 5px;
+  padding: 1px 4px;
+  background-color: black;
+}
+
+.planeName100 {
+  position: absolute;
+  display: none;
+}
+
+.table {
+  position: absolute;
+  left: 77%;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.th {
+  text-align: center;
+  padding: 5px;
+  border-right: 2px solid black;
+}
+
+.th2 {
+  text-align: center;
+  padding: 5px;
+}
+
+.td {
+  border-top: 2px solid black;
+  text-align: center;
+  padding: 5px;
+  border-right: 2px solid black;
+}
+
+.td2 {
+  border-top: 2px solid black;
+  text-align: center;
+  padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
